@@ -1,6 +1,6 @@
 # Movies-ETL
 
-## Overview of the Project/;
+## Overview of the Project:
 Create an automated pipeline that takes in new data, performs the appropriate transformations, and loads updated movie data into existing tables.
 
 ## Summary:
